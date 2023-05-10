@@ -13,6 +13,8 @@ import { en_US } from 'ng-zorro-antd/i18n';
 import { registerLocaleData } from '@angular/common';
 import en from '@angular/common/locales/en';
 
+import it from '@angular/common/locales/it';
+
 import { LForms } from './lforms';
 
 import { NzRadioModule } from 'ng-zorro-antd/radio';
@@ -56,7 +58,7 @@ import { LhcItemAttachmentComponent } from './lhc-item-attachment/lhc-item-attac
 import { LhcItemMessagesComponent } from './lhc-item-messages/lhc-item-messages.component';
 
 
-registerLocaleData(en);
+registerLocaleData(it);
 
 @NgModule({
   declarations: [

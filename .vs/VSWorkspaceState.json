@@ -1,0 +1,15 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src\\app",
+    "\\src\\app\\lhc-item-date",
+    "\\src\\app\\lhc-item-datetime",
+    "\\src\\app\\lhc-item-display",
+    "\\src\\assets",
+    "\\src\\environments",
+    "\\src\\fhir",
+    "\\src\\lib\\lforms"
+  ],
+  "SelectedNode": "\\package.json",
+  "PreviewInSolutionExplorer": false
+}
